@@ -1,0 +1,44 @@
+:root {
+    background-color: var(--bg);
+    color: var(--text-primary);
+    font-family: Inter, "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+a:link {
+    color: var(--sky);
+}
+
+a:visited {
+    color: var(--lavender);
+}
+
+a:hover {
+    color: var(--sapphire);
+}
+
+.menu {
+    background-color: var(--surface-0);
+    border: solid;
+    border-width: 2px;
+    border-color: var(--accent);
+    border-radius: 12px;
+    padding: 1em;
+    float: left;
+    margin-right: 2em;
+    margin-bottom: 2em;
+}
+
+.menu ul {
+    list-style-type: none;
+    padding: 0.1em;
+    margin: 0.1em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--accent);
+}

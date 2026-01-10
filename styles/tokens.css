@@ -1,0 +1,46 @@
+:root {
+    /* Base */
+    --bg: var(--ctp-mocha-base);
+    --bg-mantle: var(--ctp-mocha-mantle);
+    --bg-crust: var(--ctp-mocha-crust);
+
+    /* Surfaces */
+    --surface-0: var(--ctp-mocha-surface0);
+    --surface-1: var(--ctp-mocha-surface1);
+    --surface-2: var(--ctp-mocha-surface2);
+
+    /* Overlays */
+    --overlay-0: var(--ctp-mocha-overlay0);
+    --overlay-1: var(--ctp-mocha-overlay1);
+    --overlay-2: var(--ctp-mocha-overlay2);
+
+    /* Text */
+    --text-primary: var(--ctp-mocha-text);
+    --text-subtext-1: var(--ctp-mocha-subtext1);
+    --text-subtext-0: var(--ctp-mocha-subtext0);
+
+    /* Accents */
+    --accent: var(--ctp-mocha-mauve);
+    --accent-hover: var(--ctp-mocha-lavender);
+
+    /* Status */
+    --success: var(--ctp-mocha-green);
+    --warning: var(--ctp-mocha-yellow);
+    --error: var(--ctp-mocha-red);
+
+    /* Colors */
+    --rosewater: var(--ctp-mocha-rosewater);
+    --flamingo: var(--ctp-mocha-flamingo);
+    --pink: var(--ctp-mocha-pink);
+    --mauve: var(--ctp-mocha-mauve);
+    --red: var(--ctp-mocha-red);
+    --maroon: var(--ctp-mocha-maroon);
+    --peach: var(--ctp-mocha-peach);
+    --yellow: var(--ctp-mocha-yellow);
+    --green: var(--ctp-mocha-green);
+    --teal: var(--ctp-mocha-teal);
+    --sky: var(--ctp-mocha-sky);
+    --sapphire: var(--ctp-mocha-sapphire);
+    --blue: var(--ctp-mocha-blue);
+    --lavender: var(--ctp-mocha-lavender);
+}
